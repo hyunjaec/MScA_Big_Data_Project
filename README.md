@@ -1,1 +1,5 @@
-# MScA_Big_Data_Project
+# bigdata_project_hksv
+
+Big Data Platform Final Project
+
+All files are in 'code' folder
