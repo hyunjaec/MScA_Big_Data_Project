@@ -2,4 +2,6 @@
 
 Big Data Platform Final Project
 
-All files are in 'code' folder
+Please see the presentation for explanation of project
+
+All works are in 'code' folder
